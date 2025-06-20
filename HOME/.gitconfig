@@ -9,4 +9,6 @@
 [commit]
 	gpgsign = true
 [sequence]
-editor = interactive-rebase-tool
+	editor = interactive-rebase-tool
+[core]
+	excludesfile = /Users/purofle/.gitignore
